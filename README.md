@@ -31,6 +31,7 @@ if __name__ == '__main__'
 ### [Compass的简介] (http://compass-style.org/)
 
 用**Compass**来组织你的css是非常高效的。
+<<<<<<< HEAD
 
 # 小组组员
 
@@ -38,6 +39,6 @@ if __name__ == '__main__'
 
 | 昵称        |  github帐号  |  QQ  |
 | --------   | -----:  | :----:  |
-| Eric     | yguo |   1187574920     |
+| Eric     | yguo |   1187574940     |
 | xx        |   xx   |   xxx   |
 | xxx        |    xx    |  xxx  |
