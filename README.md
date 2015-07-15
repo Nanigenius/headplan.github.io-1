@@ -41,4 +41,4 @@ if __name__ == '__main__'
 | --------   | -----:  | :----:  |
 | Eric     | yguo |   1187574940     |
 | Frank        |   frank-young   |   631084625   |
-| xxx        |    xx    |  xxx  |
+| Nani        |    Nanigenius    |  1849054464  |
