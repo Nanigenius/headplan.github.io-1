@@ -40,5 +40,5 @@ if __name__ == '__main__'
 | 昵称        |  github帐号  |  QQ  |
 | --------   | -----:  | :----:  |
 | Eric     | yguo |   1187574940     |
-| xx        |   xx   |   xxx   |
+| Frank        |   frank-young   |   631084625   |
 | xxx        |    xx    |  xxx  |
